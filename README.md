@@ -1,5 +1,5 @@
 <div align="center">
- <h3>😈 Ian's Emacs Configuration For Arch & Ubuntu (WSL2) 😈</h3>
+ <h3> Ian's Emacs Configuration For Arch & Ubuntu (WSL2) </h3>
 </div>
 
 <hr>
@@ -8,7 +8,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/120px-EmacsIcon.svg.png" />
 </p>
 
-### Thanks for dropping by! 🤘
+### Thanks for dropping by! 
 This is my personal Emacs 27.2 configuration when I'm using Arch and
 Ubuntu on WSL2. If you prefer an unopinionated Emacs "distro" that you
 could build upon, check out [this
